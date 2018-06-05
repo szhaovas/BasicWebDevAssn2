@@ -1,0 +1,45 @@
+#brand {
+	color: black;
+	font-size: 30px;
+}
+
+#main-navbar {
+	background-color: gray;
+	padding: 8px 0px 0px 0px;
+}
+
+#collapsable-nav {
+	background-color: white;
+}
+
+.nav-item {
+	text-align: center;
+	border: 0.5px solid black;
+}
+
+.middle-item {
+	border-width: 0px 0.5px 0px 0.5px;
+}
+
+.nav-link {
+	color: black !important;
+}
+
+h2, h3 {
+	text-align: center;
+	color: black;
+}
+
+h2 {
+	height: 70px;
+	padding: 20px 0px 40px 0px;
+}
+
+.container h3 {
+	padding: 10px;
+}
+
+#main-body {
+	background-color: gray;
+	border: 1px solid black;
+}
